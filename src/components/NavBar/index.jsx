@@ -18,12 +18,13 @@ const NavBar = () => {
                         <Link className={location.pathname === '/tasks' ? 'btn d-flex flex-row text-success border-success align-items-center gap-2 fs-4' : 'btn d-flex flex-row text-success align-items-center gap-2 fs-4'} to="/tasks">
                         Tasks
                         </Link>
-                        <Link className={location.pathname === '/edit' ? 'btn d-flex flex-row text-success border-success align-items-center gap-2 fs-4' : 'btn d-flex flex-row text-success align-items-center gap-2 fs-4'} to="/edit">
-                        Edit
+                        <Link className={location.pathname === '/calendar' ? 'btn d-flex flex-row text-success border-success align-items-center gap-2 fs-4' : 'btn d-flex flex-row text-success align-items-center gap-2 fs-4'} to="/calendar">
+                        calendar
                         </Link>
                     </ul>
                 </div>
             </div>
+            <Link className='btn btn-danger text-light' to="/">Log out</Link>
         </nav>
     )
 }

@@ -1,12 +1,14 @@
 import React from 'react'
+import CalendarOficial from '../../components/Calendar'
 import NavBar from '../../components/NavBar'
 
-const Edit = () => {
+const Calendar = () => {
     return (
         <div>
             <NavBar/>
+            <CalendarOficial/>
         </div>
     )
 }
 
-export default Edit
+export default Calendar
