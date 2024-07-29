@@ -1,0 +1,164 @@
+{
+    "tasks": [
+            {
+            "id": 1,
+            "client": "Client A",
+            "activity_reason": "Initial Meeting",
+            "activity_date": "2024-08-01",
+            "status": "Completed",
+            "assigned_to": "John Doe"
+            },
+            {
+            "id": 2,
+            "client": "Client B",
+            "activity_reason": "Follow-up Call",
+            "activity_date": "2024-08-02",
+            "status": "Not Completed",
+            "assigned_to": "Jane Smith"
+            },
+            {
+            "id": 3,
+            "client": "Client C",
+            "activity_reason": "Contract Review",
+            "activity_date": "2024-08-03",
+            "status": "Cancelled",
+            "assigned_to": "Bob Brown"
+            },
+            {
+            "id": 4,
+            "client": "Client D",
+            "activity_reason": "Product Demonstration",
+            "activity_date": "2024-08-04",
+            "status": "Completed",
+            "assigned_to": "Alice Green"
+            },
+            {
+            "id": 5,
+            "client": "Client E",
+            "activity_reason": "Negotiation",
+            "activity_date": "2024-08-05",
+            "status": "Not Completed",
+            "assigned_to": "John Doe"
+            },
+            {
+            "id": 6,
+            "client": "Client F",
+            "activity_reason": "Site Visit",
+            "activity_date": "2024-08-06",
+            "status": "Cancelled",
+            "assigned_to": "Jane Smith"
+            },
+            {
+            "id": 7,
+            "client": "Client G",
+            "activity_reason": "Project Kick-off",
+            "activity_date": "2024-08-07",
+            "status": "Completed",
+            "assigned_to": "Bob Brown"
+            },
+            {
+            "id": 8,
+            "client": "Client H",
+            "activity_reason": "Technical Support",
+            "activity_date": "2024-08-08",
+            "status": "Not Completed",
+            "assigned_to": "Alice Green"
+            },
+            {
+            "id": 9,
+            "client": "Client I",
+            "activity_reason": "Client Training",
+            "activity_date": "2024-08-09",
+            "status": "Cancelled",
+            "assigned_to": "John Doe"
+            },
+            {
+            "id": 10,
+            "client": "Client J",
+            "activity_reason": "Feedback Session",
+            "activity_date": "2024-08-10",
+            "status": "Completed",
+            "assigned_to": "Jane Smith"
+            },
+            {
+            "id": 11,
+            "client": "Client K",
+            "activity_reason": "Project Update",
+            "activity_date": "2024-08-11",
+            "status": "Not Completed",
+            "assigned_to": "Bob Brown"
+            },
+            {
+            "id": 12,
+            "client": "Client L",
+            "activity_reason": "Budget Review",
+            "activity_date": "2024-08-12",
+            "status": "Cancelled",
+            "assigned_to": "Alice Green"
+            },
+            {
+            "id": 13,
+            "client": "Client M",
+            "activity_reason": "Strategy Session",
+            "activity_date": "2024-08-13",
+            "status": "Completed",
+            "assigned_to": "John Doe"
+            },
+            {
+            "id": 14,
+            "client": "Client N",
+            "activity_reason": "Performance Review",
+            "activity_date": "2024-08-14",
+            "status": "Not Completed",
+            "assigned_to": "Jane Smith"
+            },
+            {
+            "id": 15,
+            "client": "Client O",
+            "activity_reason": "Marketing Campaign",
+            "activity_date": "2024-08-15",
+            "status": "Cancelled",
+            "assigned_to": "Bob Brown"
+            },
+            {
+            "id": 16,
+            "client": "Client P",
+            "activity_reason": "Operational Meeting",
+            "activity_date": "2024-08-16",
+            "status": "Completed",
+            "assigned_to": "Alice Green"
+            },
+            {
+            "id": 17,
+            "client": "Client Q",
+            "activity_reason": "Technical Assessment",
+            "activity_date": "2024-08-17",
+            "status": "Not Completed",
+            "assigned_to": "John Doe"
+            },
+            {
+            "id": 18,
+            "client": "Client R",
+            "activity_reason": "Sales Pitch",
+            "activity_date": "2024-08-18",
+            "status": "Cancelled",
+            "assigned_to": "Jane Smith"
+            },
+            {
+            "id": 19,
+            "client": "Client S",
+            "activity_reason": "Risk Management",
+            "activity_date": "2024-08-19",
+            "status": "Completed",
+            "assigned_to": "Bob Brown"
+            },
+            {
+            "id": 20,
+            "client": "Client T",
+            "activity_reason": "Annual Review",
+            "activity_date": "2024-08-20",
+            "status": "Not Completed",
+            "assigned_to": "Alice Green"
+            }
+    ]
+}
