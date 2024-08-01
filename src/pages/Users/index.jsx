@@ -59,7 +59,7 @@ const Users = () => {
         const updateUser = () => {
             setProfiles(
                 profiles.map((profile) =>
-                profile.id === currentUserId ? { ...user, first_name:name, last_name: second, email: email, phone_number:phone, Address:address } : profile
+                profile.id === currentUserId ? { ...profile, first_name:name, last_name: second, email: email, phone_number:phone, Address:address } : profile
             )
             );
             setName('');
