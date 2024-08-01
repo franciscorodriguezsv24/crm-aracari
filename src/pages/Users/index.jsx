@@ -28,7 +28,7 @@ const Users = () => {
         }, []);
 
         const addProfile = () => {
-            console.log('testing')
+
             const newProfile = {
                 id: profiles.length + 1,
                 first_name: name,
